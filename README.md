@@ -66,6 +66,8 @@ The following files are required for input data:
 - Real-Time Detection: Extend to handle real-time ACH transactions using Kafka or RabbitMQ.
 - Metadata: Use metadata for validity of accounts.
 
-#### Author: Prachi Shah
+#### Author: Prachi Shah @ https://pcisha.my.canva.site/
 
 #### Date: December 6, 2024
+
+P.S. The default copyright laws apply.
