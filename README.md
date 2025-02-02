@@ -1,4 +1,4 @@
-# Levenshtein Distance System for Third-Party Bank Transactions (ACH)
+# Levenshtein Distance for Third-Party Bank Transactions (ACH)
 
 ## Overview
 
