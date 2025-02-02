@@ -1,4 +1,4 @@
-# Fraud Detection System for Third-Party Bank Transactions (ACH)
+# Levenshtein Distance System for Third-Party Bank Transactions (ACH)
 
 ## Overview
 
@@ -68,6 +68,6 @@ The following files are required for input data:
 
 #### Author: Prachi Shah @ https://pcisha.my.canva.site/
 
-#### Date: December 6, 2024
+#### Date: February 1, 2025
 
 P.S. The default copyright laws apply.
